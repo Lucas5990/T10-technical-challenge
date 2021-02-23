@@ -2,8 +2,8 @@
 
 Automated tests project using JavaScript, Cypress and Cucumber, made as a demonstration of technical knowledge for a QA role at the company T10. The challenge description is:
 
-> "Gostaríamos que você implementasse um projeto simples de validação do formulário de contato que o site da T10 contém pra conhecermos mais do seu potencial técnico. Você está livre para desenvolver os cenários que achar pertinente e, não se preocupe, estamos totalmente cientes de que esse seria um contato inicial com o framework que utilizamos. Se atente, principalmente, a desenvolver os testes da forma que você considera correta."
-> Funcionalidade a ser automatizada: Contact Us > Opção I seek joining the kingdom > Formulário de Contato
+> "Gostaríamos que você implementasse um projeto simples de validação do formulário de contato que o site da T10 contém pra conhecermos mais do seu potencial técnico. Você está livre para desenvolver os cenários que achar pertinente e, não se preocupe, estamos totalmente cientes de que esse seria um contato inicial com o framework que utilizamos. Se atente, principalmente, a desenvolver os testes da forma que você considera correta.
+> Funcionalidade a ser automatizada: Contact Us > Opção I seek joining the kingdom > Formulário de Contato"
 
 ## Test Cases :white_check_mark:
 
@@ -20,7 +20,7 @@ Automated tests project using JavaScript, Cypress and Cucumber, made as a demons
 | CT007        | Checks functionality of the button "Send" when "Email" is not informed      | Done - Passed     |
 | CT008        | Checks functionality of the button "Send" when "Phone" is not informed      | Done - Passed     |
 | CT009        | Checks functionality of the button "Send" when the form is filled correctly | Done - Passed     |
-| CT010        | Checks functionality of the button "OK" atthe Success Modal                 | Done - Passed     |
+| CT010        | Checks functionality of the button "OK" at the Success Modal                 | Done - Passed     |
 
 ## Extra Test Cases :ballot_box_with_check:
 
