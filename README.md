@@ -30,7 +30,7 @@ Automated tests project using JavaScript, Cypress and Cucumber, made as a demons
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | Checks functionality of the button "Send" when "Email" doesn't have the at sign            | The error message has double quotes and i wasn't able to escape them at the .feature file     |
 | Checks functionality of the button "Send" when "Email" has no characters after the at sign | The error message has double quotes and i wasn't able to escape them at the .feature file     |
-| Checks functionality of the button "Send" when "Phone" has alphabetic characters           | The Phone field accepts alphabetic characters (BUG :bug:) so i dodn't know the error message. |
+| Checks functionality of the button "Send" when "Phone" has alphabetic characters           | The Phone field accepts alphabetic characters (BUG :bug:) so i don't know the error message. |
 | Checks functionality of the button "Send" when "Phone" has special characters              | The Phone field accepts special characters (BUG :bug:) so i don't know the error message.    |
 
 ---
