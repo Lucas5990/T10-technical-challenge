@@ -80,4 +80,4 @@ Feature: Contact Us Form
         And I write "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae." into the input field "Type here your message"
         And I click at the button SEND
         When I click at the button "OK"
-        Then The Sucess modal must clo
+        Then The Sucess modal must close
