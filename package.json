@@ -1,0 +1,31 @@
+{
+  "name": "t10-technical-challenge",
+  "version": "1.0.0",
+  "description": "Automated tests project using JavaScript, Cypress and Cucumber, made as a demonstration of technical knowledge for a QA role at the company T10.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.5.0",
+    "cypress-cucumber-preprocessor": "^4.0.1",
+    "cypress-xpath": "^1.6.2"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.0.1",
+    "cypress-xpath": "^1.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas5990/T10-technical-challenge.git"
+  },
+  "author": "Lucas Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lucas5990/T10-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/Lucas5990/T10-technical-challenge#readme",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
