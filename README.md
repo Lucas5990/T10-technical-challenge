@@ -28,10 +28,10 @@ Automated tests project using JavaScript, Cypress and Cucumber, made as a demons
 
 | Test Case Name                                                                             | Reason Not Automated                                                                          |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Checks functionality of the button <Send> when "Email" doesn't have the at sign            | The error message has double quotes and i wasn't able to escape them at the .feature file     |
-| Checks functionality of the button <Send> when "Email" has no characters after the at sign | The error message has double quotes and i wasn't able to escape them at the .feature file     |
-| Checks functionality of the button <Send> when "Phone" has alphabetic characters           | The Phone filed accepts alphabetic characters (BUG :bug:) so i didn't know the error message. |
-| Checks functionality of the button <Send> when "Phone" has special characters              | The Phone filed accepts special characters (BUG :bug:) so i didn't know the error message.    |
+| Checks functionality of the button "Send" when "Email" doesn't have the at sign            | The error message has double quotes and i wasn't able to escape them at the .feature file     |
+| Checks functionality of the button "Send" when "Email" has no characters after the at sign | The error message has double quotes and i wasn't able to escape them at the .feature file     |
+| Checks functionality of the button "Send" when "Phone" has alphabetic characters           | The Phone filed accepts alphabetic characters (BUG :bug:) so i didn't know the error message. |
+| Checks functionality of the button "Send" when "Phone" has special characters              | The Phone filed accepts special characters (BUG :bug:) so i didn't know the error message.    |
 
 ---
 
@@ -48,4 +48,4 @@ Automated tests project using JavaScript, Cypress and Cucumber, made as a demons
 #### If i had more time i would:
 
 - Use setup and teardown hooks/steps to avoid repeating myself;
-- Work on the report of run test cases/suits.
+- Work on the execution reports.
